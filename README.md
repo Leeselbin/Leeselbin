@@ -24,7 +24,9 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  ![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 <br><br><br>
 
-
+## 💫 m e 
+ [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.bin99116445@gmail.com)
+<br><br><br>
 
 
 
