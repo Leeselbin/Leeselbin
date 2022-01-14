@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Java , Python , spring
 - 🌱 I’m currently learning ... Java
 
+버티자...
 
 notion :   https://tin-science-481.notion.site/abc20f8252274890a72902f2720ff088
 
