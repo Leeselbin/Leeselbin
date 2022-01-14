@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Leeselbin
-- 👀 I’m interested in ... Java , Python , spring
-- 🌱 I’m currently learning ... Java
+
 
 버티자...
 
