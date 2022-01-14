@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💫 m e 
  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.bin99116445@gmail.com)
- [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://img.shields.io/badge/Notion-000000.)
+ [![Notion](https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=Notion&logoColor=white)](https://img.shields.io/badge/Notion-000000.)
 
 
 
