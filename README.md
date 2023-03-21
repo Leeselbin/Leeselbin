@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 [![React](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/Leeselbin/Emotion-Clone-Udemy)
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
 <br><br><br>
 
 ## 💫 m e 
